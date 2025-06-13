@@ -43,10 +43,8 @@ Permite visualizar, filtrar y analizar una lista de usuarios con una interfaz mo
 
 ## 🖼 Capturas de pantalla
 
-```md
-![Vista principal](./screenshots/usuarios.png)
-![Dashboard](./screenshots/dashboard.png)
-```
+![Vista principal](./public/screenshots/usuarios.png)
+![Dashboard](./public/screenshots/dashboard.png)
 
 ## 🚀 ¿Cómo ejecutar el proyecto?
 
