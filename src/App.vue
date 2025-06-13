@@ -24,7 +24,6 @@
 </template>
 
 <script setup lang="ts">
-import UserList from '@/components/UserList.vue';
 import { useTheme } from 'vuetify';
 import { onMounted } from "vue"
 

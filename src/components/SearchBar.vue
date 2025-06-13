@@ -28,7 +28,7 @@
 </template>
 
 <script setup lang="ts">
-import { ref, computed, watch, defineModel, defineEmits } from 'vue';
+import { ref, computed, watch, defineEmits } from 'vue';
 const menu = ref(false);
 
 // Props
